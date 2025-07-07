@@ -8,7 +8,7 @@ function App() {
     <>
       <div className='min-h-screen bg-gray-50 flex flex-col items-center justify-center'>
           <div className='container'>
-            <CurrencyConvertor/>
+            <CurrencyConvertor/> 
           </div>
          
       </div>
